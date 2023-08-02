@@ -1,0 +1,10 @@
+/.metadata/
+/.recommenders/
+.classpath
+.project
+.settings/
+.idea
+*.iml
+out
+gen
+**/.DS_Store

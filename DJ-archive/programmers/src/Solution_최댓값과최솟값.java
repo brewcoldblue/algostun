@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.stream.Stream;
-
 public class Solution_최댓값과최솟값 {
 
     public static void main(String[] args) {

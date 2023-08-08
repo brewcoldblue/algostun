@@ -58,3 +58,11 @@
 ### 😭 벌칙
 
 #### 매주 수요일, 5번의 커밋이 없으면 벌칙이 생겨요!
+
+<hr />
+
+### 애드온
+
+#### [[algostun-auto-commit]](https://github.com/bmincof/algostun-auto-commit)
+
+백준허브와 연동하여 스터디 규칙에 맞게 자동으로 커밋하는 프로젝트

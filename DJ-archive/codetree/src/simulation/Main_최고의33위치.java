@@ -7,6 +7,7 @@ import java.util.StringTokenizer;
 
 /*
  * 격자 안에서 완전 탐색. 기본 개념 문제
+ * https://www.codetree.ai/missions/2/problems/best-place-of-33?&utm_source=clipboard&utm_medium=text
  */
 public class Main_최고의33위치 {
 

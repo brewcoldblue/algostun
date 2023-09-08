@@ -29,4 +29,5 @@ rl.on('line', line => {
 
   const 답 = Math.min(낱개만, 패키지낱개, 패키지만);
   console.log(답);
+  //9월 8일
 });

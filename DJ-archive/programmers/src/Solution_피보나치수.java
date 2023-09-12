@@ -1,4 +1,4 @@
-class Solution {
+class Solution_피보나치수 {
 
     public long solution(int n) {
         long answer = 0;

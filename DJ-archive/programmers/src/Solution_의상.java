@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution_의상 {
 
     public int solution(String[][] clothes) {
         int answer = 1;

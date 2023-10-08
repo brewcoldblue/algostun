@@ -1,4 +1,4 @@
-class Solution {
+class Solution_카펫 {
     int row,col;
     public int[] solution(int brown, int yellow) {
         int[] answer = {0,0};
